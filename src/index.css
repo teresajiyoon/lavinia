@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  }
+  
+  .font-display {
+    font-family: 'Cormorant Garamond', 'Noto Serif KR', Georgia, serif;
+  }
+
+  .font-editorial {
+    font-family: 'Noto Serif KR', 'Cormorant Garamond', Georgia, serif;
+  }
+}
+

@@ -1,0 +1,6 @@
+{
+  "name": "LAVINIA 라비니아 - 와인데뷔 & 페어링",
+  "description": "오늘의 식탁에 어울리는 와인을 쉽게 배우고 요리 레시피와 장보기까지 이어지는 와인 라이프스타일 웹앱. 와인데뷔 스타터키트와 클래스.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
